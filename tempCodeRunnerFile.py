@@ -1,3 +1,1 @@
-
-#read the tiff file using rasterio
-raster = rasterio.open(tiff_path)
+temperature_2m_2d
